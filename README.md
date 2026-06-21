@@ -1,3 +1,4 @@
+
 # E-Commerce Operations & Portfolio Analytics
 
 An end-to-end data analytics project leveraging the Olist Brazilian E-Commerce dataset. This project builds a robust data engineering and business intelligence pipeline to uncover operational insights across logistics performance and product portfolio concentration.
@@ -27,8 +28,11 @@ This repository contains the full production pipeline organized across the follo
 
 ### Executive Logistics Overview
 ![Logistics Dashboard] https://github.com/harshgorade-ai/E-Commerce-Operations-Analysis/blob/main/Screenshot%202026-06-22%20014256.png
+<img width="1297" height="723" alt="Screenshot 2026-06-22 014256" src="https://github.com/user-attachments/assets/c4d7c478-bee9-473d-a3ce-2e9cef19d4d5" />
 ### Product Portfolio Concentration (80/20 Pareto)
 ![Product Dashboard] https://github.com/harshgorade-ai/E-Commerce-Operations-Analysis/blob/main/Screenshot%202026-06-22%20014242.png
+<img width="1282" height="721" alt="Screenshot 2026-06-22 014242" src="https://github.com/user-attachments/assets/dd6a8096-4d47-4dcf-ac97-a9c6bdd3e983" />
+
 
 ---
 
