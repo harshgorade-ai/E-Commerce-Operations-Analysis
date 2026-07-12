@@ -94,37 +94,6 @@ Orders are bucketed into delay tiers (On Time/Early, 1–3 Days Late, 4–7 Days
 **4. Seller & regional risk**
 Late-delivery rate is aggregated by `seller_id` and by seller-state → customer-state pairs, then cross-referenced against seller revenue contribution — separating sellers who are both high-risk and high-revenue (priority to fix) from low-volume outliers.
 
----
-
-## Repository structure
-
-```
-├── sql/
-│   ├── 01_revenue_pareto.sql
-│   ├── 02_shipping_variance.sql
-│   ├── 03_repeat_purchase_cohort.sql
-│   └── 04_seller_regional_risk.sql
-├── notebooks/
-│   ├── 01_data_pipeline.ipynb
-│   ├── 02_revenue_pareto.ipynb
-│   ├── 03_shipping_variance.ipynb
-│   ├── 04_retention_analysis.ipynb
-│   └── 05_seller_regional_analysis.ipynb
-├── dashboard/
-│   └── Ecommerce_Operations_Analysis.pbix
-├── docs/
-│   └── images/
-│       ├── home.png
-│       ├── revenue.png
-│       ├── shipping.png
-│       ├── retention.png
-│       └── seller_risk.png
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
-
----
 
 ## Tech stack
 
