@@ -143,6 +143,6 @@ This analysis shows that Olist's revenue depends on a narrow set of product cate
 ## Contact
 
 **Harsh Gorade**
-[GitHub](https://github.com/harshgorade-ai) · [LinkedIn](#) · [Email](#)
+[GitHub](https://github.com/harshgorade-ai) · [[LinkedIn](https://www.linkedin.com/in/harsh-gorade-979107288/) · [Email](harshgorade@gmail.com)
 
 If you found this useful or have feedback, feel free to open an issue or reach out directly.
